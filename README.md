@@ -9,4 +9,4 @@ db_get () {
 }
 ```
 
-Excerpt from the book <<Designing Data-Intensive Applications>>
+Excerpt from the book `<<Designing Data-Intensive Applications>>`
